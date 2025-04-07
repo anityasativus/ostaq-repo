@@ -4,6 +4,15 @@
   color: rgb(193, 56, 56);
 }
 .box-span{
+  margin-bottom: 20px;
   background-color: #8c8181;
   color: rgb(82, 16, 16);
+}
+#box-1{
+  background-color: #181818;
+  color: rgb(239, 182, 182);
+
+}
+[data-size]{
+  border: 1px solid #000;
 }
