@@ -1,4 +1,9 @@
-div{
-  background-color: #f0f0f0;
-  color: white;
+
+.box{
+  background-color: #181818;
+  color: rgb(193, 56, 56);
+}
+.box-span{
+  background-color: #8c8181;
+  color: rgb(82, 16, 16);
 }
