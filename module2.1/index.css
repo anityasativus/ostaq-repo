@@ -29,6 +29,7 @@
     align-self: flex-start;
 }
 .box3{
+    flex: 1; 
     flex: 1;
     flex-shrink: 1;
 } */
